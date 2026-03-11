@@ -41,4 +41,4 @@ Experiment_6_3.m - Generates results for Sec 6.3.
 
 
 
-Experiment_6_2_data_and_results - Contains the original waterfall.mp4 and the comparison video for different reconstructions using LASSO and Debiased LASSO along with the extracted and reconstructed frames.
+Waterfall_video_original_and_reconstructed.zip - Contains the original waterfall.mp4 and the comparison video for different reconstructions using LASSO and Debiased LASSO.
