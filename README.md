@@ -2,8 +2,11 @@
 Matlab functions for the implementation of Fast Debiasing and obtaining the simulation results of the paper "Fast Debiasing of the LASSO Estimator" accepted in TMLR.
 
 Description of Codes:
+
 compute_rho.m - Given a matrix A, computes the quatity rho given in Theorem 1.
+
 compute_W_e.m - Computes the exact solution W_e provided in the Fast Debiasing work given a design matrix A.
+
 compute_W_o.m - Computes the optimal solution W_o by solving the optimization problem given in Eqn.(6) of the paper given a design matrix A.
 compute_d_Sigma - Computes the inverse M=d\Sigma^-1 for Sec 5.2 of the paper.
 W_e_sens_spec.m - Given measurements y, design matrix A and signal \beta, performs debiasing using W_e and returns the sensitivity and specificity of the debiased lasso estimates.
